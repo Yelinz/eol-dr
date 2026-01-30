@@ -27,7 +27,7 @@ Hier ist eine bereinigte Liste, die Sie für Ihre eigenen Zwecke verwenden könn
 Hier ist die Checkliste:
 
 * Im Markdown-Format: [checklist.md](/checklist.md)
-* Im docx-Format, generiert durch die GitHub Action: [checklist.docx](/checklist.docx)
+* Im DOCX-Format, generiert durch die GitHub Action: [checklist.docx](/checklist.docx)
 
 # Das könnte Sie auch interessieren...
 

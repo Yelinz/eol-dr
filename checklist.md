@@ -38,7 +38,7 @@ Fügen Sie me@fake.com tatsächlich zu Ihrem Handy hinzu, da wir dort unsere Ver
 
 Sie wissen, wie man das benutzt, da wir es in unser Leben integriert haben.
 
-* KeePass. Mein Master-Passwort ist (gedruckt, keine Schrift): _________________________________________
+* KeePass. Mein Master-Passwort ist (gedruckt, handschriftlich): _________________________________________
 
 ### Abonnements
 
@@ -199,7 +199,7 @@ Sie verwenden PayPal viel, also schließen Sie es nicht, aber bitten Sie gerne e
 
 Ich bekomme diese durch meinen Arbeitgeber.
 
-Fidelity hat alle unsere Lebensversicherungen und Sie sollten X Betrag erhalten, wenn ich nach Froopyland gehe aus natürlichen Gründen oder XX Betrag, wenn ich nach Froopyland gehe aufgrund eines Unfalls, weil unsere AD&D maximal, waximal und vaximal ist.
+Fidelity hat alle unsere Lebensversicherungen und Sie sollten X Betrag erhalten, wenn ich nach Froopyland gehe aus natürlichen Gründen oder XX Betrag, wenn ich nach Froopyland gehe aufgrund eines Unfalls, weil unsere AD&D maximal abgedeckt ist.
 
 ### Restwert-Einkommen – automatische Einzahlungen auf United States Bank
 
@@ -244,7 +244,7 @@ Dies ist der Abschnitt mit Rechnungen und Dingen, die Sie bezahlen müssen. Alle
 
 * Automatisch bezahlt an Orange über unser United States Bank-Konto
 * Vertrag endet in 2 Jahren, kann aber mit 3 Monaten Kündigungsfrist gekündigt werden
-* Billy Dominguez kann Europäisch sprechen und kann Ihnen wahrscheinlich helfen, die Kündigung zu navigieren. Vielleicht kann die Arbeit auch helfen.
+* Billy Dominguez kann die lokale Sprache sprechen und kann Ihnen wahrscheinlich helfen, die Kündigung zu navigieren. Vielleicht kann die Arbeit auch helfen.
 
 ### Rechnung Autopay
 

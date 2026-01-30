@@ -1,35 +1,35 @@
-# EOL DR / End-of-life Disaster Response
+# EOL DR / Katastrophenplan für den Todesfall
 
-Back in 2012, I moved to Belgium with my wife and started working with a bunch of techies who eventually became life-long friends.
+Im Jahr 2012 zog ich mit meiner Frau nach Belgien und begann mit einer Gruppe von Technikern zu arbeiten, die schließlich zu lebenslangen Freunden wurden.
 
-Our VDI guy, Andy, was one of my favorites. He was grumpy, always tucked his shirt in, kept his desk Type A clean and was just so principled. He was into VMware VDI and I supported the SQL Servers in his Horizon environment.
+Unser VDI-Spezialist Andy war einer meiner Favoriten. Er war mürrisch, steckte sein Hemd immer ein, hielt seinen Schreibtisch ordentlich und war einfach so prinzipientreu. Er war in VMware VDI vertieft und ich unterstützte die SQL-Server in seiner Horizon-Umgebung.
 
-Even after Andy and I both left Belgium, we stayed in touch, sharing stories of our current employment and talking about the current state of our setup. He still got to use PowerShell at work and I did too.
+Auch nachdem Andy und ich beide Belgien verlassen hatten, blieben wir in Kontakt, tauschten Geschichten über unsere aktuelle Beschäftigung aus und sprachen über den aktuellen Stand unserer Systeme. Er konnte immer noch PowerShell bei der Arbeit verwenden und ich auch.
 
-I always thought he'd be there and was devastated when I found out he died unexpectedly.
+Ich dachte immer, er würde da sein, und war am Boden zerstört, als ich erfuhr, dass er unerwartet gestorben war.
 
-# What about his homelab?
+# Was ist mit seinem Homelab?
 
-"What about his homelab?" I thought. "Will his wife's wifi devices even be able to get an IP address if his DHCP server goes down?". I reached out to her to see how she was doing and she told me that, six months on, she avoids his office at all costs. She worries what will happen when her TV no longer works, when her wifi no longer works. She knows people will help, but the idea of calling them is torturous. Heartbreaking.
+„Was ist mit seinem Homelab?", dachte ich. „Werden die WLAN-Geräte seiner Frau überhaupt noch eine IP-Adresse bekommen können, wenn sein DHCP-Server ausfällt?" Ich kontaktierte sie, um zu sehen, wie es ihr ging, und sie erzählte mir, dass sie sechs Monate später sein Büro um jeden Preis meidet. Sie macht sich Sorgen, was passieren wird, wenn ihr Fernseher nicht mehr funktioniert, wenn ihr WLAN nicht mehr funktioniert. Sie weiß, dass Leute helfen werden, aber die Vorstellung, sie anzurufen, ist qualvoll. Herzzerreißend.
 
-Immediately after reading her email, I reached out to my and Andy's former colleagues who lived near her and they offered to drop by to help her figure out both the short-term and long-term tech plans. I asked Andy's widow for her email and phone number so she wouldn't have to dread calling, someone else would place that call for her.
+Unmittelbar nach dem Lesen ihrer E-Mail kontaktierte ich meine und Andys ehemaligen Kollegen, die in ihrer Nähe lebten, und sie boten an, vorbeizukommen, um ihr zu helfen, sowohl die kurzfristigen als auch die langfristigen Technologie-Pläne herauszufinden. Ich fragte Andys Witwe nach ihrer E-Mail-Adresse und Telefonnummer, damit sie nicht den Anruf fürchten musste – jemand anderes würde diesen Anruf für sie tätigen.
 
-That got us all thinking -- what would Andy have wanted for his homelab? What would our own spouses do if we suddenly weren't there? Who would close our Azure accounts? Who should get the PureStorage array? For those of us who are The Bill Payers, how would our spouses know which bill is paid by what bank account?
+Das brachte uns alle zum Nachdenken – was hätte Andy für sein Homelab gewollt? Was würden unsere eigenen Partner tun, wenn wir plötzlich nicht mehr da wären? Wer würde unsere Azure-Konten schließen? Wer sollte das PureStorage-Array bekommen? Für diejenigen von uns, die die Rechnungen bezahlen, wie würden unsere Partner wissen, welche Rechnung von welchem Bankkonto bezahlt wird?
 
-I put together an initial draft to answer these questions for my own wife, and then crowdsourced the rest. So many of my tech friends suggested stuff I hadn't thought of and I'm sure there's more. Initially, I was going to make it a gist, but a friend suggested putting it on GitHub which would make PRs possible.
+Ich stellte einen ersten Entwurf zusammen, um diese Fragen für meine eigene Frau zu beantworten, und crowdsourcte dann den Rest. So viele meiner Tech-Freunde schlugen Dinge vor, an die ich nicht gedacht hatte, und ich bin mir sicher, dass es noch mehr gibt. Anfangs wollte ich es zu einem Gist machen, aber ein Freund schlug vor, es auf GitHub zu stellen, was Pull Requests ermöglichen würde.
 
 # checklist.md -> checklist.docx
 
-Within hours of this interaction, I created a Word document, printed it out, filled in a couple passwords manually, and then stored it in a fire proof bag.
+Innerhalb weniger Stunden nach dieser Interaktion erstellte ich ein Word-Dokument, druckte es aus, füllte manuell ein paar Passwörter aus und bewahrte es dann in einer feuerfesten Tasche auf.
 
-Here is a sanitized list that you can use for your own purposes. If anything is missing or you have suggestions, please feel free to submit a PR. Upon approval, the Word doc will be regenerated for others.
+Hier ist eine bereinigte Liste, die Sie für Ihre eigenen Zwecke verwenden können. Wenn etwas fehlt oder Sie Vorschläge haben, können Sie gerne einen Pull Request einreichen. Nach Genehmigung wird das Word-Dokument für andere neu generiert.
 
-So here is the checklist:
+Hier ist die Checkliste:
 
-* In markdown format: [checklist.md](/checklist.md)
-* In docx format, generated by the GitHub Action: [checklist.docx](/checklist.docx)
+* Im Markdown-Format: [checklist.md](/checklist.md)
+* Im docx-Format, generiert durch die GitHub Action: [checklist.docx](/checklist.docx)
 
-# You may also be interested in...
+# Das könnte Sie auch interessieren...
 
 [In Case You Get Hit by a Bus](https://www.amazon.com/Case-You-Get-Hit-Bus/dp/1523510471)
 [The Next of Kin box](https://www.thenokbox.com/)

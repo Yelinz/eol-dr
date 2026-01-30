@@ -1,290 +1,290 @@
-# End-of-life disaster response
+# Katastrophenplan für den Todesfall
 
-If you are reading this, I, like Tommy, have disappeared to Froopyland and I miss you already. There's a lot here, but the first order of business is telling people.
+Wenn Sie dies lesen, bin ich, wie Tommy, nach Froopyland verschwunden und vermisse Sie bereits. Es gibt hier viel zu tun, aber das Wichtigste ist zunächst, die Leute zu informieren.
 
-Contact the following friends and family directly before announcing it on Twitter. Open up my laptop, create a note, then copy/paste it to:
+Kontaktieren Sie die folgenden Freunde und Familienmitglieder direkt, bevor Sie es auf Twitter ankündigen. Öffnen Sie meinen Laptop, erstellen Sie eine Notiz und kopieren/fügen Sie sie dann ein an:
 
-* iMessages: Blake, Brother, Brother 2
+* iMessages: Blake, Bruder, Bruder 2
 * WhatsApp: Aaron
-* Facebook: Dad, dad’s phone number is in my phone too
+* Facebook: Papa, Papas Telefonnummer ist auch in meinem Handy
 * Skype: Peter
-* Discord: Look in my chat list and message anyone I've talked about recently. So far, it's David, Jenn and Claudette.
-* Google chat or email: Melanie
-* Instagram or email: JoeB
+* Discord: Schauen Sie in meiner Chat-Liste nach und schreiben Sie jedem, über den ich kürzlich gesprochen habe. Bisher sind es David, Jenn und Claudette.
+* Google Chat oder E-Mail: Melanie
+* Instagram oder E-Mail: JoeB
 
-Then let ppl on Twitter, Facebook and Instagram know.
+Dann informieren Sie die Leute auf Twitter, Facebook und Instagram.
 
-## Tech
+## Technik
 
-This section covers the topics that will help you access my emails and website logins. It'll also let you know who to give my tech things to or who to ask for help when something breaks.
+Dieser Abschnitt behandelt die Themen, die Ihnen helfen, auf meine E-Mails und Website-Anmeldungen zuzugreifen. Es wird Ihnen auch mitteilen, wem Sie meine technischen Dinge geben sollen oder wen Sie um Hilfe bitten können, wenn etwas kaputt geht.
 
-### Emails
+### E-Mails
 
-As you know, I primarily use me@fake.com. You can login through my phone or laptop. Keep my phone and laptop until you haven't used them for one year just in case a 2FA issue comes up.
+Wie Sie wissen, verwende ich hauptsächlich me@fake.com. Sie können sich über mein Handy oder meinen Laptop anmelden. Behalten Sie mein Handy und meinen Laptop ein Jahr lang, nachdem Sie sie nicht mehr benutzt haben, nur für den Fall, dass ein 2FA-Problem auftritt.
 
-* me@fake.com – password is stored in xyz
-* this@that.com – all emails from this get forwarded to me@fake.com
+* me@fake.com – Passwort ist in xyz gespeichert
+* this@that.com – alle E-Mails hiervon werden an me@fake.com weitergeleitet
 
-Add me@fake.com to your phone, actually, since that's where we get our shipping alerts.
+Fügen Sie me@fake.com tatsächlich zu Ihrem Handy hinzu, da wir dort unsere Versandbenachrichtigungen erhalten.
 
-### Domains and blogs
+### Domains und Blogs
 
-* All of my domains are managed via Google Domains and CloudFlare
-  * Google Domains auto renews and needs an updated Credit Card to keep going
-* xyz.io – Keep this paid via Google Domains or transfer to Danielle Smith 
-* fakblog.com – Transfer to Blake
+* Alle meine Domains werden über Google Domains und CloudFlare verwaltet
+  * Google Domains verlängert automatisch und benötigt eine aktualisierte Kreditkarte, um weiterzulaufen
+* xyz.io – Behalten Sie dies über Google Domains bezahlt oder übertragen Sie es an Danielle Smith
+* fakblog.com – An Blake übertragen
 
-### Password Managers
+### Passwort-Manager
 
-You know how to use this since we've incorporated it into our lives.
+Sie wissen, wie man das benutzt, da wir es in unser Leben integriert haben.
 
-* KeePass. My master password is (printed, no script): _________________________________________
+* KeePass. Mein Master-Passwort ist (gedruckt, handschriftlich): _________________________________________
 
-### Subscriptions
+### Abonnements
 
-* YouTube – keep this for commercial free viewing on Roku or cancel then subscribe from your own account
-* Twitch.tv – this is cancelled but recheck and also close my Twitch account
-* Discord – cancel this
-* Amazon Prime + my “Channels” that you don’t watch. Keep Amazon Prime, cancel my true crime channels.
+* YouTube – behalten Sie dies für werbefreies Ansehen auf Roku oder kündigen Sie und abonnieren Sie dann von Ihrem eigenen Konto
+* Twitch.tv – dies ist gekündigt, aber überprüfen Sie es erneut und schließen Sie auch meinen Twitch-Account
+* Discord – kündigen Sie dies
+* Amazon Prime + meine „Channels", die Sie nicht ansehen. Behalten Sie Amazon Prime, kündigen Sie meine True-Crime-Kanäle.
 * Netflix
 * Hulu
 * Spotify
-  * Just keep this account since it’s a family account
+  * Behalten Sie einfach dieses Konto, da es ein Familienkonto ist
 * NordVPN
-  * It's unlikely you'll need this, just cancel
-* Apple Subscriptions
-  * Open Apple iPhone
-  * Click Settings
-  * Click the big thing at the top with my name
-  * Click Subscriptions
-  * Delete anything you don’t want like Wondery+, Twitter, or Apple News
+  * Es ist unwahrscheinlich, dass Sie dies brauchen werden, kündigen Sie einfach
+* Apple-Abonnements
+  * Öffnen Sie das Apple iPhone
+  * Klicken Sie auf Einstellungen
+  * Klicken Sie auf das große Ding oben mit meinem Namen
+  * Klicken Sie auf Abonnements
+  * Löschen Sie alles, was Sie nicht möchten, wie Wondery+, Twitter oder Apple News
 
 ### Homelabs
 
-* DO NOT SELL WITHOUT FORMATTING OR DESTROYING DISKS. This could be an identity theft disaster.
-* Janet can have my “big” black boxes (doesn’t need formatting) and my little black box called a NUC (needs formatting)
-* Peter can have my Macs
-  * Needs formatting AND needs to follow instructions from Apple to disconnect it from Find My or they’ll be prevented from using it
-  * Again, don't give away my laptop or phone until a year after you don't need it
-* Ask Peter how to expand Plex but we don’t add anything to it so it shouldn’t be a problem
+* NICHT OHNE FORMATIERUNG ODER ZERSTÖRUNG DER FESTPLATTEN VERKAUFEN. Dies könnte eine Identitätsdiebstahl-Katastrophe sein.
+* Janet kann meine „großen" schwarzen Boxen haben (braucht keine Formatierung) und meine kleine schwarze Box namens NUC (braucht Formatierung)
+* Peter kann meine Macs haben
+  * Braucht Formatierung UND muss Anweisungen von Apple befolgen, um sie von „Wo ist?" zu trennen, sonst wird er daran gehindert, sie zu verwenden
+  * Noch einmal, geben Sie meinen Laptop oder mein Handy nicht weg, bis ein Jahr nach dem Sie es nicht mehr brauchen
+* Fragen Sie Peter, wie man Plex erweitert, aber wir fügen nichts hinzu, also sollte es kein Problem sein
 
-### Wireless network
+### Drahtloses Netzwerk
 
-* Give Joe all of our Unifi wireless devices if something goes wrong and you can’t bring it up by unplugging for 1 minute and replugging
-* Pay him to replace it with something easy. If you move to a smaller place, you can just use the wifi router from the ISP.
+* Geben Sie Joe alle unsere Unifi-WLAN-Geräte, wenn etwas schief geht und Sie es nicht hochfahren können, indem Sie den Stecker für 1 Minute ziehen und wieder einstecken
+* Bezahlen Sie ihn, um es durch etwas Einfaches zu ersetzen. Wenn Sie in eine kleinere Wohnung ziehen, können Sie einfach den WLAN-Router des Internetanbieters verwenden.
 
-### Restarting network services
+### Neustart von Netzwerkdiensten
 
-* If the Internet goes out, restart the black modem like you always do (by waiting 10 seconds). If that doesn't work, unplug it physically, then physically plug it back in.
-* If that doesn't work, unplug the white disk upstairs and the white disk downtairs. Wait literally 20 minutes because Unifi is wild and takes forever to restart.
-* If that doesn't work either, check to see if there are any voo outages. If not, wait or call Peter.
+* Wenn das Internet ausfällt, starten Sie das schwarze Modem wie immer neu (indem Sie 10 Sekunden warten). Wenn das nicht funktioniert, ziehen Sie es physisch aus der Steckdose und stecken Sie es dann wieder ein.
+* Wenn das nicht funktioniert, ziehen Sie die weiße Scheibe oben und die weiße Scheibe unten aus. Warten Sie buchstäblich 20 Minuten, denn Unifi ist wild und braucht ewig zum Neustarten.
+* Wenn das auch nicht funktioniert, prüfen Sie, ob es voo-Ausfälle gibt. Wenn nicht, warten Sie oder rufen Sie Peter an.
 
-### Home automation / IoT (Hue, etc)
+### Hausautomatisierung / IoT (Hue, etc)
 
-If you change the name of the wifi (like if you move and use the ISP's built-in wifi), then you will have to reconnect:
+Wenn Sie den Namen des WLANs ändern (z. B. wenn Sie umziehen und das eingebaute WLAN des Internetanbieters verwenden), müssen Sie Folgendes erneut verbinden:
 
 * Hue Hub
-  * If the Hue lights break, check the Hue Hub upstairs in the storage room; it's a little white square. You probably just need to restart it by unplugging it and waiting 10 seconds.
-* Sonos speakers
-* Roku, AppleTV and the Firestick
-* iRobot vacuum
-* Dyson air purifiers
-* Ring cameras
-* Power consumption monitors
-  * Ensure that everything you want to monitor is plugged into a smart plug
+  * Wenn die Hue-Lichter kaputt gehen, überprüfen Sie den Hue Hub oben im Lagerraum; es ist ein kleines weißes Quadrat. Sie müssen ihn wahrscheinlich nur neu starten, indem Sie ihn ausstecken und 10 Sekunden warten.
+* Sonos-Lautsprecher
+* Roku, AppleTV und der Firestick
+* iRobot-Staubsauger
+* Dyson-Luftreiniger
+* Ring-Kameras
+* Stromverbrauchsmonitore
+  * Stellen Sie sicher, dass alles, was Sie überwachen möchten, an einen intelligenten Stecker angeschlossen ist
 
-Considering that, you might want to ask Michelle to setup the ISP's built-in wifi with the same name of our current wifi (`potatopie`).
+In Anbetracht dessen möchten Sie vielleicht Michelle bitten, das eingebaute WLAN des Internetanbieters mit dem gleichen Namen unseres aktuellen WLANs (`potatopie`) einzurichten.
 
-### Social Media accounts
+### Social-Media-Konten
 
-* Everything can be logged in with KeePass + the multi-factor apps on my phone (Authy or Microsoft Authenticator)
-* Don’t close Twitter for a few years
-  * If you sell my Twitter, make it worth your time, like 1 million then ask a friend to delete all my old posts
-  * This will probably require some sort of service because Twitter makes things hard
-* Export and close FB, I only stayed there for Niki's memorial page and my business page anyway
-* Instagram may be enjoyable for you to look back on since it's just us on vacation :kiss:
+* Alles kann mit KeePass + den Multi-Faktor-Apps auf meinem Handy (Authy oder Microsoft Authenticator) angemeldet werden
+* Schließen Sie Twitter nicht für ein paar Jahre
+  * Wenn Sie mein Twitter verkaufen, machen Sie es sich wert, wie 1 Million, und bitten Sie dann einen Freund, alle meine alten Posts zu löschen
+  * Dies wird wahrscheinlich eine Art Dienst erfordern, weil Twitter die Dinge schwierig macht
+* Exportieren Sie und schließen Sie FB, ich bin nur dort geblieben für Nikis Gedenkseite und meine Unternehmensseite sowieso
+* Instagram könnte angenehm für Sie sein, um darauf zurückzublicken, da wir dort nur im Urlaub sind :kiss:
 
 ### 2FA
 
-Fortunately, you're familiar with this because I require you to be :blush:. This is "Two factor authentication" or "2FA" or "Multi factor authentication" or "MFA". They all mean the same thing.
+Glücklicherweise sind Sie damit vertraut, weil ich es von Ihnen verlange :blush:. Dies ist „Zwei-Faktor-Authentifizierung" oder „2FA" oder „Multi-Faktor-Authentifizierung" oder „MFA". Sie bedeuten alle dasselbe.
 
-* I use two MFA apps on my phone
-  * Authy 
-    * I default to this most of the time unless it's not available
+* Ich verwende zwei MFA-Apps auf meinem Handy
+  * Authy
+    * Ich verwende dies standardmäßig die meiste Zeit, es sei denn, es ist nicht verfügbar
   * Microsoft Authenticator
-* Some accounts require a US phone number for SMS, so use the me@fake.com Skype account phone number
-  * If you see that they sent it to phone number 555-555-5555, then that is the Skype account
-* Remember to avoid using SMS for 2FA if it's possible, because it's less safe
-* Keep using Authy for your own accounts when you can
+* Einige Konten erfordern eine US-Telefonnummer für SMS, also verwenden Sie die Telefonnummer des me@fake.com Skype-Kontos
+  * Wenn Sie sehen, dass sie es an die Telefonnummer 555-555-5555 gesendet haben, dann ist das das Skype-Konto
+* Denken Sie daran, SMS für 2FA zu vermeiden, wenn es möglich ist, weil es weniger sicher ist
+* Verwenden Sie weiterhin Authy für Ihre eigenen Konten, wenn Sie können
 
-### Cloud Subscriptions
+### Cloud-Abonnements
 
-SUPER IMPORTANT because these bills can get big quickly
+SUPER WICHTIG, weil diese Rechnungen schnell groß werden können
 
-* Microsoft Azure + Power BI - to delete sponsorship subscription and transfer resources – contact Michelle and have her walk you through it. The phone number is listed on [this page](https://docs.microsoft.com/en-us/microsoft-365/admin/get-help-support?view=o365-worldwide&tabs=online#phone-support): +1-800-865-9408
-* Amazon Web Services charges 5 cents a month and is hooked up to our Amazon account, so you can just leave it forever
-* Appveyor – Billy Dominguez will know what to do. Please get in touch with him at some point because if this bill isn't paid each year, then the tests will fail in our repository.
+* Microsoft Azure + Power BI - um Sponsoring-Abonnement zu löschen und Ressourcen zu übertragen – kontaktieren Sie Michelle und lassen Sie sie Sie durchführen. Die Telefonnummer ist auf [dieser Seite](https://docs.microsoft.com/en-us/microsoft-365/admin/get-help-support?view=o365-worldwide&tabs=online#phone-support) aufgeführt: +1-800-865-9408
+* Amazon Web Services kostet 5 Cent pro Monat und ist mit unserem Amazon-Konto verbunden, also können Sie es für immer einfach lassen
+* Appveyor – Billy Dominguez wird wissen, was zu tun ist. Bitte nehmen Sie irgendwann Kontakt mit ihm auf, denn wenn diese Rechnung nicht jedes Jahr bezahlt wird, werden die Tests in unserem Repository fehlschlagen.
 
-### Online Storage & Photo Backups
+### Online-Speicher & Foto-Backups
 
-**Photo Backups**
+**Foto-Backups**
 
-We both have this installed on our phones [backup service] is used to backup all our pictures to the cloud, it uploads them automatically so you probably don't know it is there. It is important though as [backup service] contains all of our memories. 
+Wir haben beide dies auf unseren Handys installiert [Backup-Dienst] wird verwendet, um alle unsere Bilder in die Cloud zu sichern, es lädt sie automatisch hoch, sodass Sie wahrscheinlich nicht wissen, dass es da ist. Es ist jedoch wichtig, da [Backup-Dienst] alle unsere Erinnerungen enthält.
 
-* You can login to the web version [here]() details are in KeePass
-* From here you can download individual pictures, change the password to the account or download all of the photos to your computer if you wish.
-* Don't just close the account though as you will lose the photos.  
+* Sie können sich bei der Web-Version [hier]() anmelden, Details sind in KeePass
+* Von hier aus können Sie einzelne Bilder herunterladen, das Passwort für das Konto ändern oder alle Fotos auf Ihren Computer herunterladen, wenn Sie möchten.
+* Schließen Sie das Konto jedoch nicht einfach, da Sie die Fotos verlieren werden.
 
-**Cloud Storage** 
+**Cloud-Speicher**
 
-We have some documents stored on [cloud storage provider], I also have lots of things stored there that you might want to view, TV License receipts, renewal documents for the car things like that. 
+Wir haben einige Dokumente auf [Cloud-Speicheranbieter] gespeichert, ich habe auch viele Dinge dort gespeichert, die Sie vielleicht ansehen möchten, TV-Lizenz-Quittungen, Erneuerungsdokumente für das Auto und solche Dinge.
 
-* You can login to the web version [here]() details are in KeePass
-* From here you can download individual files, change the password etc. 
-* Even if you don't use this it is a good idea to keep it as some of the files you might need in the future.
+* Sie können sich bei der Web-Version [hier]() anmelden, Details sind in KeePass
+* Von hier aus können Sie einzelne Dateien herunterladen, das Passwort ändern usw.
+* Auch wenn Sie dies nicht verwenden, ist es eine gute Idee, es zu behalten, da Sie einige der Dateien in Zukunft benötigen könnten.
 
-### Local Storage & Backups 
+### Lokaler Speicher & Backups
 
-Like the above online storage and backups we have a NAS, you know the little black box in the closet with the flashing lights on the front, there is a label on it that says [what does it say].
+Wie der oben genannte Online-Speicher und Backups haben wir ein NAS, Sie kennen die kleine schwarze Box im Schrank mit den blinkenden Lichtern auf der Vorderseite, es gibt ein Etikett darauf, das sagt [was steht darauf].
 
-This little black box stores all of our backups that we don't want going to the internet, all of our electronic documents, our films our digital life is on here so it is **IMPORTANT** that If you decide that you don't want to keep it contact [person] who will help you wipe it (delete everything), whatever you do don't just throw it in the bin.
+Diese kleine schwarze Box speichert alle unsere Backups, die wir nicht ins Internet gehen lassen wollen, alle unsere elektronischen Dokumente, unsere Filme, unser digitales Leben ist hier, also ist es **WICHTIG**, dass Sie, wenn Sie entscheiden, dass Sie es nicht behalten möchten, [Person] kontaktieren, die Ihnen hilft, es zu löschen (alles zu löschen), was auch immer Sie tun, werfen Sie es nicht einfach in den Müll.
 
-* You can login to the web portal [here]() details are in KeePass
-* From here you can view/download individual files, change the password etc. 
-* If you login to my computer details also in KeePass you will see a folder called [folder name] this is everything on the NAS, you can navigate through it just like any other folder on the computer. 
+* Sie können sich beim Webportal [hier]() anmelden, Details sind in KeePass
+* Von hier aus können Sie einzelne Dateien ansehen/herunterladen, das Passwort ändern usw.
+* Wenn Sie sich bei meinem Computer anmelden, Details auch in KeePass, sehen Sie einen Ordner namens [Ordnername], das ist alles auf dem NAS, Sie können darin navigieren wie in jedem anderen Ordner auf dem Computer.
 
 ### Websites
 
-* BlueHost – let Blake know to look out for a bill each March as this is where fakblog.com is hosted
-  * Transfer ownership to Blake and have him contact Bluehost support to reset all passwords
-* CloudFlare – this does some advanced shit but is free. Login via Authy. Blake may want to know this too.
+* BlueHost – informieren Sie Blake, dass er im März nach einer Rechnung Ausschau halten soll, da hier fakblog.com gehostet wird
+  * Übertragen Sie das Eigentum an Blake und lassen Sie ihn den BlueHost-Support kontaktieren, um alle Passwörter zurückzusetzen
+* CloudFlare – dies macht einige fortgeschrittene Sachen, aber ist kostenlos. Anmeldung über Authy. Blake möchte dies vielleicht auch wissen.
 
-### Tech Tips
+### Technische Tipps
 
-* Do not EVER sell anything with a hard drive without formatting the hard drives first. Ask any of our tech friends to help.
-* Do not EVER try to sell an Apple product without following their instructions to wipe before reselling. Apple is special and associates Find My with your account so it prevents theft. The person won’t be able to use it if you don’t unregister the device.
+* Verkaufen Sie NIEMALS etwas mit einer Festplatte, ohne die Festplatten zuerst zu formatieren. Bitten Sie einen unserer Tech-Freunde um Hilfe.
+* Versuchen Sie NIEMALS, ein Apple-Produkt zu verkaufen, ohne deren Anweisungen zum Löschen vor dem Weiterverkauf zu befolgen. Apple ist besonders und verbindet „Wo ist?" mit Ihrem Konto, sodass es Diebstahl verhindert. Die Person wird es nicht verwenden können, wenn Sie das Gerät nicht abmelden.
 
-## Input
+## Eingang
 
-This is the section where money lands or exists.
+Dies ist der Abschnitt, in dem Geld ankommt oder existiert.
 
-### Bank Accounts and Virtual Currency
+### Bankkonten und virtuelle Währung
 
-We have a couple bank accounts that serve different purposes. One is good for paying international bills, the other comes with some great insurance, and yet another is an old account I've had for a while. It's good for your credit to have a couple bank accounts too.
+Wir haben ein paar Bankkonten, die verschiedenen Zwecken dienen. Eines ist gut für die Zahlung internationaler Rechnungen, das andere hat eine tolle Versicherung, und ein weiteres ist ein altes Konto, das ich eine Weile hatte. Es ist gut für Ihre Kreditwürdigkeit, ein paar Bankkonten zu haben.
 
-You use PayPal a lot, so don't close it but feel free to ask a friend to help you change the email addres if you want. It may come with further confirmation.
+Sie verwenden PayPal viel, also schließen Sie es nicht, aber bitten Sie gerne einen Freund, Ihnen zu helfen, die E-Mail-Adresse zu ändern, wenn Sie möchten. Es könnte mit weiterer Bestätigung kommen.
 
 * Fak Bank
-  * Checking / Savings
-  * Good loan rates
-  * Can pay international bills via IBAN
-  * PIN for card: 2553
-  * Funds available for immediate use after joint holder is deceased. Spoke with Jan Dodekens and set aside 20,000 euros
-* United States Bank 
-  * Checking / Savings
-  * Has great reputation for car insurance and other insurances
-  * Cannot pay IBAN bills
-  * PIN for card: Stored in Password1
+  * Giro / Sparkonto
+  * Gute Kreditkonditionen
+  * Kann internationale Rechnungen über IBAN bezahlen
+  * PIN für Karte: 2553
+  * Mittel verfügbar zur sofortigen Verwendung nach dem Tod des gemeinsamen Kontoinhabers. Sprach mit Jan Dodekens und legte 20.000 Euro beiseite
+* United States Bank
+  * Giro / Sparkonto
+  * Hat einen tollen Ruf für Autoversicherung und andere Versicherungen
+  * Kann keine IBAN-Rechnungen bezahlen
+  * PIN für Karte: Gespeichert in Password1
 * First Business of America
-  * Get the money out and cancel it
-  * It’s an old business account that sometimes came in handy for me but high monthly fees
-  * PIN for card: No idea, I don't use it
+  * Holen Sie das Geld raus und kündigen Sie es
+  * Es ist ein altes Geschäftskonto, das mir manchmal nützlich war, aber hohe monatliche Gebühren hat
+  * PIN für Karte: Keine Ahnung, ich benutze es nicht
 * PayPal
-  * Login with me@fake.com like you always do along with 2FA
+  * Melden Sie sich mit me@fake.com wie immer an, zusammen mit 2FA
 * VirtCoin
-  * Maybe it’ll make money in the future but right now it’s losing money
-  * The app is hard to navigate. Reach out to Emily for help.
+  * Vielleicht wird es in Zukunft Geld verdienen, aber im Moment verliert es Geld
+  * Die App ist schwer zu navigieren. Wenden Sie sich an Emily um Hilfe.
 
-### Life Insurance
+### Lebensversicherung
 
-I get this through my employer.
+Ich bekomme diese durch meinen Arbeitgeber.
 
-Fidelity has all of our life insurance and you should receive X amount if I go to Froopyland for natural causes or XX amount if I go to Froopyland due to an accident because our AD&D is maxxed, waxxed and vaxxed.
+Fidelity hat alle unsere Lebensversicherungen und Sie sollten X Betrag erhalten, wenn ich nach Froopyland gehe aus natürlichen Gründen oder XX Betrag, wenn ich nach Froopyland gehe aufgrund eines Unfalls, weil unsere AD&D maximal abgedeckt ist.
 
-### Residual income – auto deposits to United States Bank
+### Restwert-Einkommen – automatische Einzahlungen auf United States Bank
 
-* Book – Manning
-* Twitch (aka Amazon)
+* Buch – Manning
+* Twitch (alias Amazon)
 * GitHub Sponsors
 * Amazon Cookbooks
 * Google AdSense
 
-### Investments
+### Investitionen
 
-Call Fidelity to ask for some advice if you need. I just set it and forget it.
+Rufen Sie Fidelity an, um um Rat zu bitten, wenn Sie es brauchen. Ich stelle es nur ein und vergesse es.
 
-* Fidelity – 401k, investments do well
-* Charles Schwab – Investment account, investments do okay
-* Victory Capital – Mutual funds. Not a lot here. Their email is email@vc.com
+* Fidelity – 401k, Investitionen laufen gut
+* Charles Schwab – Anlagekonto, Investitionen laufen okay
+* Victory Capital – Investmentfonds. Nicht viel hier. Ihre E-Mail ist email@vc.com
 
-## Output
+## Ausgang
 
-This is the section with bills and things you gotta pay. Everything is on auto-pay so no stress. Just keep money in Fak Bank and United States Bank.
+Dies ist der Abschnitt mit Rechnungen und Dingen, die Sie bezahlen müssen. Alles ist auf Autopay, also kein Stress. Halten Sie einfach Geld in Fak Bank und United States Bank.
 
-### Ongoing Insurance Accounts
+### Laufende Versicherungskonten
 
-* State Farm has all of our car and house and umbrella insurances
-  * They charge like $100/mo to Fak Bank
+* State Farm hat alle unsere Auto-, Haus- und Haftpflichtversicherungen
+  * Sie berechnen etwa 100$/Monat an Fak Bank
 * Aetna International Health Insurance
-  * The app is on my phone
-  * Just pay first, then upload bills and they’ll pay you back
+  * Die App ist auf meinem Handy
+  * Zahlen Sie einfach zuerst, dann laden Sie Rechnungen hoch und sie zahlen Sie zurück
 
-### Credit Cards and Loans
+### Kreditkarten und Kredite
 
 * Chase
-  * Emergency Credit Card has 50k limit
-  * Has a high APR so don’t use it unless you have to
-  * It’s set to auto-pay so if you charge 50k in one month, that’ll be deducted from your bank account at the end of the month so again, be careful
-* Fak Bank 
-  * Holds our car loan and $550 is deducted each month automatically. Will be paid off in Jan 2025.
+  * Notfall-Kreditkarte hat 50k Limit
+  * Hat einen hohen effektiven Jahreszins, also verwenden Sie sie nicht, es sei denn, Sie müssen
+  * Es ist auf Autopay eingestellt, also wenn Sie 50k in einem Monat belasten, wird das am Ende des Monats von Ihrem Bankkonto abgezogen, also seien Sie wieder vorsichtig
+* Fak Bank
+  * Hält unseren Autokredit und 550$ werden jeden Monat automatisch abgezogen. Wird im Januar 2025 abbezahlt sein.
 * Fannie Mae
-  * Holds our student loans, $1200 is deducted each month automatically from Fak Bank. Should be paid off in 3 years. Consider paying these off with insurance money ahead of time to save on interest.
+  * Hält unsere Studentenkredite, 1200$ werden jeden Monat automatisch von Fak Bank abgezogen. Sollte in 3 Jahren abbezahlt sein. Erwägen Sie, diese mit Versicherungsgeld vorzeitig abzuzahlen, um Zinsen zu sparen.
 
-### Cell Phone & Internet
+### Handy & Internet
 
-* Auto paid to Orange via our United States Bank account
-* Contract ends in 2 years but can be cancelled with 3 months notice
-* Billy Dominguez can speak European and can help you navigate cancelling, most likely. Maybe work can too.
+* Automatisch bezahlt an Orange über unser United States Bank-Konto
+* Vertrag endet in 2 Jahren, kann aber mit 3 Monaten Kündigungsfrist gekündigt werden
+* Billy Dominguez kann die lokale Sprache sprechen und kann Ihnen wahrscheinlich helfen, die Kündigung zu navigieren. Vielleicht kann die Arbeit auch helfen.
 
-### Bill Auto Pay
+### Rechnung Autopay
 
-A few bills are setup to automatically charge us. Rent, however, is setup as a recurring bill. So cancel this when you move. Ask a friend to help you get this in order because you may forget.
+Ein paar Rechnungen sind so eingerichtet, dass sie uns automatisch belasten. Die Miete ist jedoch als wiederkehrende Rechnung eingerichtet. Also kündigen Sie dies, wenn Sie umziehen. Bitten Sie einen Freund, Ihnen zu helfen, dies in Ordnung zu bringen, weil Sie es vielleicht vergessen.
 
 * State Farm
-  * Car & House insurance, call to update any time you move
+  * Auto- & Hausversicherung, anrufen, um jederzeit zu aktualisieren, wenn Sie umziehen
 * United States Bank
-  * Electric company (Electricitease) charges us directly each month
-  * Orange charges us $15 each month
-  * Student Loan ($1200/mo)
-  * State Farm insurance ($100/mo)
+  * Elektrizitätsunternehmen (Electricitease) belastet uns jeden Monat direkt
+  * Orange belastet uns jeden Monat 15$
+  * Studentenkredit (1200$/Monat)
+  * State Farm Versicherung (100$/Monat)
 * United States Bank
-  * This account has recurring bill pay to pay our rent
+  * Dieses Konto hat wiederkehrende Rechnungszahlung, um unsere Miete zu bezahlen
 
-## Misc
+## Verschiedenes
 
-### Financial Advisor
+### Finanzberater
 
-Contact Fidelity to learn how to invest your insurance money
+Kontaktieren Sie Fidelity, um zu lernen, wie Sie Ihr Versicherungsgeld investieren
 
-### Accountant
+### Buchhalter
 
-Our accountant Tracey Calendar (tracey@calendarcpa.com) can help you figure out a lot of things and perhaps give you advice on anything I missed. They know our financial history from the past 10 years.
+Unser Buchhalter Tracey Calendar (tracey@calendarcpa.com) kann Ihnen helfen, viele Dinge herauszufinden und Ihnen vielleicht Rat zu allem geben, was ich verpasst habe. Sie kennen unsere Finanzgeschichte der letzten 10 Jahre.
 
-Ask our accountant or look over our finances to see any new 1099s if this list gets outdated.
+Fragen Sie unseren Buchhalter oder schauen Sie sich unsere Finanzen an, um neue 1099er zu sehen, falls diese Liste veraltet ist.
 
-Also, if you feel overwhelmed by all of this, ask her to perhaps switch the way we pay our taxes and don't take deductions.
+Wenn Sie sich von all dem überfordert fühlen, fragen Sie sie, ob sie die Art und Weise ändern können, wie wir unsere Steuern zahlen, und nehmen Sie keine Abzüge vor.
 
-### Answers to common security questions
+### Antworten auf häufige Sicherheitsfragen
 
-* First dog: Jackson
-* Dad's middle name: Henry
-* Mom's maiden name: Smithe
-* Street I grew up on: Maine Street
-* First car: Toyota Celica
-* First School: Menlo Elementary
+* Erster Hund: Jackson
+* Zweitname des Vaters: Henry
+* Mädchenname der Mutter: Smithe
+* Straße, in der ich aufgewachsen bin: Maine Street
+* Erstes Auto: Toyota Celica
+* Erste Schule: Menlo Elementary
 
-### Physical Security
+### Physische Sicherheit
 
-* Medicine cabinet PIN: 59938
-* Weapons cabinet PIN: 9119119
-* Safe combo: Left - 89, right 33, Spin twice left then: 51
+* Medikamentenschrank-PIN: 59938
+* Waffenschrank-PIN: 9119119
+* Tresor-Kombination: Links - 89, rechts 33, Zweimal links drehen, dann: 51
